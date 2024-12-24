@@ -1,0 +1,55 @@
+services:
+  ### DATA BASE ###
+  db:
+    container_name: workshop-atl-db
+    restart: on-failure
+    stdin_open: true
+    env_file: .env
+    build:
+      context: ./docker/images/db
+      dockerfile: Dockerfile
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    environment:
+      - POSTGRES_USER=${DB_USER}
+      - POSTGRES_PASSWORD=${DB_PWD}
+    ports:
+      - ${DB_PORT}
+    healthcheck:
+      test: ["CMD", "pg_isready"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 5s
+  ### API ###
+  api1:
+    container_name: workshop-atl-api1
+    restart: on-failure
+    stdin_open: true
+    env_file: .env
+    build:
+      context: ./docker/images/python
+      dockerfile: Dockerfile
+    volumes:
+      - ./src/api1:/usr/src/app
+      - ./src/db:/usr/src/app/db
+      - ./docker/volumes/data:/data
+    ports:
+      - "$API1_PORT_EXTERNAL:$API_PORT_INTERNAL"
+  api2:
+    container_name: workshop-atl-api2
+    restart: on-failure
+    stdin_open: true
+    env_file: .env
+    build:
+      context: ./docker/images/python
+      dockerfile: Dockerfile
+    volumes:
+      - ./src/api2:/usr/src/app
+      - ./src/db:/usr/src/app/db
+      - ./docker/volumes/data:/data
+    ports:
+      - "$API2_PORT_EXTERNAL:$API_PORT_INTERNAL"
+
+volumes:
+  postgres_data:

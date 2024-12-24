@@ -1,0 +1,252 @@
+[
+    {
+        "from": "PT",
+        "to": "IN",
+        "airport": "BenficaAirClub",
+        "seats_available": 41,
+        "plane_number": "EK953",
+        "port_number": "E16",
+        "fly_code": "NZ782",
+        "date": "2025-03-09"
+    },
+    {
+        "from": "PT",
+        "to": "MX",
+        "airport": "BenficaAirClub",
+        "seats_available": 12,
+        "plane_number": "AF499",
+        "port_number": "C4",
+        "fly_code": "SQ849",
+        "date": "2025-04-10"
+    },
+    {
+        "from": "PT",
+        "to": "US",
+        "airport": "BenficaAirClub",
+        "seats_available": 3,
+        "plane_number": "UA319",
+        "port_number": "D9",
+        "fly_code": "CX988",
+        "date": "2025-04-01"
+    },
+    {
+        "from": "PT",
+        "to": "ES",
+        "airport": "BenficaAirClub",
+        "seats_available": 22,
+        "plane_number": "LH577",
+        "port_number": "E3",
+        "fly_code": "SQ332",
+        "date": "2025-02-23"
+    },
+    {
+        "from": "PT",
+        "to": "IT",
+        "airport": "BenficaAirClub",
+        "seats_available": 21,
+        "plane_number": "AA212",
+        "port_number": "B5",
+        "fly_code": "FL736",
+        "date": "2025-04-11"
+    },
+    {
+        "from": "PT",
+        "to": "KR",
+        "airport": "BenficaAirClub",
+        "seats_available": 19,
+        "plane_number": "JL465",
+        "port_number": "E13",
+        "fly_code": "VS706",
+        "date": "2025-02-27"
+    },
+    {
+        "from": "PT",
+        "to": "AU",
+        "airport": "BenficaAirClub",
+        "seats_available": 32,
+        "plane_number": "EK294",
+        "port_number": "B4",
+        "fly_code": "DL742",
+        "date": "2025-04-07"
+    },
+    {
+        "from": "PT",
+        "to": "IN",
+        "airport": "BenficaAirClub",
+        "seats_available": 21,
+        "plane_number": "EK183",
+        "port_number": "A4",
+        "fly_code": "NZ673",
+        "date": "2025-03-24"
+    },
+    {
+        "from": "PT",
+        "to": "ES",
+        "airport": "BenficaAirClub",
+        "seats_available": 35,
+        "plane_number": "UA489",
+        "port_number": "D9",
+        "fly_code": "SQ218",
+        "date": "2025-03-16"
+    },
+    {
+        "from": "PT",
+        "to": "IN",
+        "airport": "BenficaAirClub",
+        "seats_available": 13,
+        "plane_number": "UA184",
+        "port_number": "D10",
+        "fly_code": "NZ236",
+        "date": "2025-03-27"
+    },
+    {
+        "from": "PT",
+        "to": "MX",
+        "airport": "BenficaAirClub",
+        "seats_available": 44,
+        "plane_number": "BA340",
+        "port_number": "B10",
+        "fly_code": "TK913",
+        "date": "2025-02-15"
+    },
+    {
+        "from": "PT",
+        "to": "TR",
+        "airport": "BenficaAirClub",
+        "seats_available": 38,
+        "plane_number": "UA558",
+        "port_number": "C15",
+        "fly_code": "VS168",
+        "date": "2025-02-17"
+    },
+    {
+        "from": "PT",
+        "to": "ZA",
+        "airport": "BenficaAirClub",
+        "seats_available": 45,
+        "plane_number": "JL347",
+        "port_number": "B12",
+        "fly_code": "SQ386",
+        "date": "2025-02-18"
+    },
+    {
+        "from": "PT",
+        "to": "CH",
+        "airport": "BenficaAirClub",
+        "seats_available": 23,
+        "plane_number": "AF683",
+        "port_number": "B1",
+        "fly_code": "CX246",
+        "date": "2025-04-04"
+    },
+    {
+        "from": "PT",
+        "to": "AE",
+        "airport": "BenficaAirClub",
+        "seats_available": 19,
+        "plane_number": "BA435",
+        "port_number": "D16",
+        "fly_code": "CX537",
+        "date": "2025-04-01"
+    },
+    {
+        "from": "PT",
+        "to": "CA",
+        "airport": "BenficaAirClub",
+        "seats_available": 18,
+        "plane_number": "JL917",
+        "port_number": "D9",
+        "fly_code": "QR528",
+        "date": "2025-03-18"
+    },
+    {
+        "from": "PT",
+        "to": "TR",
+        "airport": "BenficaAirClub",
+        "seats_available": 18,
+        "plane_number": "BA822",
+        "port_number": "E5",
+        "fly_code": "VS928",
+        "date": "2025-03-28"
+    },
+    {
+        "from": "PT",
+        "to": "CN",
+        "airport": "BenficaAirClub",
+        "seats_available": 32,
+        "plane_number": "EK892",
+        "port_number": "A6",
+        "fly_code": "TK574",
+        "date": "2025-02-19"
+    },
+    {
+        "from": "PT",
+        "to": "ZA",
+        "airport": "BenficaAirClub",
+        "seats_available": 12,
+        "plane_number": "EK532",
+        "port_number": "A4",
+        "fly_code": "TK563",
+        "date": "2025-02-13"
+    },
+    {
+        "from": "PT",
+        "to": "US",
+        "airport": "BenficaAirClub",
+        "seats_available": 42,
+        "plane_number": "JL506",
+        "port_number": "E20",
+        "fly_code": "FL920",
+        "date": "2025-02-14"
+    },
+    {
+        "from": "PT",
+        "to": "FR",
+        "airport": "BenficaAirClub",
+        "seats_available": 27,
+        "plane_number": "AA481",
+        "port_number": "B4",
+        "fly_code": "FL859",
+        "date": "2025-03-24"
+    },
+    {
+        "from": "PT",
+        "to": "AU",
+        "airport": "BenficaAirClub",
+        "seats_available": 44,
+        "plane_number": "AA753",
+        "port_number": "C6",
+        "fly_code": "QR841",
+        "date": "2025-04-01"
+    },
+    {
+        "from": "PT",
+        "to": "ES",
+        "airport": "BenficaAirClub",
+        "seats_available": 49,
+        "plane_number": "QF833",
+        "port_number": "C12",
+        "fly_code": "SQ759",
+        "date": "2025-03-09"
+    },
+    {
+        "from": "PT",
+        "to": "US",
+        "airport": "BenficaAirClub",
+        "seats_available": 24,
+        "plane_number": "AF166",
+        "port_number": "A12",
+        "fly_code": "SQ704",
+        "date": "2025-03-05"
+    },
+    {
+        "from": "PT",
+        "to": "ES",
+        "airport": "BenficaAirClub",
+        "seats_available": 47,
+        "plane_number": "BA173",
+        "port_number": "A4",
+        "fly_code": "NZ731",
+        "date": "2025-03-29"
+    }
+]

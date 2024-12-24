@@ -1,0 +1,242 @@
+[
+    {
+        "from": "PT",
+        "to": "BR",
+        "airport": "PortoAirClub",
+        "seats_available": 30,
+        "plane_number": "UA145",
+        "port_number": "D3",
+        "fly_code": "EK701",
+        "date": "2025-03-12"
+    },
+    {
+        "from": "PT",
+        "to": "JP",
+        "airport": "PortoAirClub",
+        "seats_available": 18,
+        "plane_number": "AF923",
+        "port_number": "C9",
+        "fly_code": "JL512",
+        "date": "2025-04-15"
+    },
+    {
+        "from": "PT",
+        "to": "RU",
+        "airport": "PortoAirClub",
+        "seats_available": 22,
+        "plane_number": "AA753",
+        "port_number": "A7",
+        "fly_code": "QR318",
+        "date": "2025-02-20"
+    },
+    {
+        "from": "PT",
+        "to": "DE",
+        "airport": "PortoAirClub",
+        "seats_available": 41,
+        "plane_number": "BA469",
+        "port_number": "B11",
+        "fly_code": "VS630",
+        "date": "2025-03-21"
+    },
+    {
+        "from": "PT",
+        "to": "IT",
+        "airport": "PortoAirClub",
+        "seats_available": 25,
+        "plane_number": "CX298",
+        "port_number": "D14",
+        "fly_code": "TK842",
+        "date": "2025-04-18"
+    },
+    {
+        "from": "PT",
+        "to": "FR",
+        "airport": "PortoAirClub",
+        "seats_available": 8,
+        "plane_number": "LH308",
+        "port_number": "E8",
+        "fly_code": "AF721",
+        "date": "2025-02-22"
+    },
+    {
+        "from": "PT",
+        "to": "CN",
+        "airport": "PortoAirClub",
+        "seats_available": 38,
+        "plane_number": "SQ349",
+        "port_number": "C5",
+        "fly_code": "BA940",
+        "date": "2025-03-10"
+    },
+    {
+        "from": "PT",
+        "to": "AE",
+        "airport": "PortoAirClub",
+        "seats_available": 13,
+        "plane_number": "JL782",
+        "port_number": "B4",
+        "fly_code": "QR317",
+        "date": "2025-03-28"
+    },
+    {
+        "from": "PT",
+        "to": "MX",
+        "airport": "PortoAirClub",
+        "seats_available": 46,
+        "plane_number": "EK490",
+        "port_number": "D8",
+        "fly_code": "LH205",
+        "date": "2025-03-02"
+    },
+    {
+        "from": "PT",
+        "to": "JP",
+        "airport": "PortoAirClub",
+        "seats_available": 12,
+        "plane_number": "UA203",
+        "port_number": "E16",
+        "fly_code": "CX384",
+        "date": "2025-02-26"
+    },
+    {
+        "from": "PT",
+        "to": "US",
+        "airport": "PortoAirClub",
+        "seats_available": 37,
+        "plane_number": "QF754",
+        "port_number": "C12",
+        "fly_code": "NZ611",
+        "date": "2025-03-06"
+    },
+    {
+        "from": "PT",
+        "to": "IN",
+        "airport": "PortoAirClub",
+        "seats_available": 29,
+        "plane_number": "BA348",
+        "port_number": "A3",
+        "fly_code": "VS418",
+        "date": "2025-03-15"
+    },
+    {
+        "from": "PT",
+        "to": "ES",
+        "airport": "PortoAirClub",
+        "seats_available": 45,
+        "plane_number": "AA123",
+        "port_number": "B14",
+        "fly_code": "DL749",
+        "date": "2025-03-19"
+    },
+    {
+        "from": "PT",
+        "to": "CA",
+        "airport": "PortoAirClub",
+        "seats_available": 34,
+        "plane_number": "JL671",
+        "port_number": "C8",
+        "fly_code": "EK547",
+        "date": "2025-02-25"
+    },
+    {
+        "from": "PT",
+        "to": "RU",
+        "airport": "PortoAirClub",
+        "seats_available": 20,
+        "plane_number": "LH992",
+        "port_number": "D15",
+        "fly_code": "TK307",
+        "date": "2025-04-03"
+    },
+    {
+        "from": "PT",
+        "to": "AU",
+        "airport": "PortoAirClub",
+        "seats_available": 9,
+        "plane_number": "UA509",
+        "port_number": "A11",
+        "fly_code": "SQ298",
+        "date": "2025-04-05"
+    },
+    {
+        "from": "PT",
+        "to": "CN",
+        "airport": "PortoAirClub",
+        "seats_available": 26,
+        "plane_number": "AF611",
+        "port_number": "E10",
+        "fly_code": "QR731",
+        "date": "2025-02-21"
+    },
+    {
+        "from": "PT",
+        "to": "ZA",
+        "airport": "PortoAirClub",
+        "seats_available": 31,
+        "plane_number": "EK148",
+        "port_number": "A4",
+        "fly_code": "FL815",
+        "date": "2025-03-13"
+    },
+    {
+        "from": "PT",
+        "to": "DE",
+        "airport": "PortoAirClub",
+        "seats_available": 16,
+        "plane_number": "BA523",
+        "port_number": "C3",
+        "fly_code": "AA519",
+        "date": "2025-03-25"
+    },
+    {
+        "from": "PT",
+        "to": "IT",
+        "airport": "PortoAirClub",
+        "seats_available": 24,
+        "plane_number": "QF817",
+        "port_number": "D6",
+        "fly_code": "NZ414",
+        "date": "2025-04-14"
+    },
+    {
+        "from": "PT",
+        "to": "FR",
+        "airport": "PortoAirClub",
+        "seats_available": 39,
+        "plane_number": "AA801",
+        "port_number": "E18",
+        "fly_code": "DL803",
+        "date": "2025-02-19"
+    },
+    {
+        "from": "PT",
+        "to": "CH",
+        "airport": "PortoAirClub",
+        "seats_available": 40,
+        "plane_number": "JL125",
+        "port_number": "C14",
+        "fly_code": "CX625",
+        "date": "2025-02-18"
+    },
+    {
+        "from": "PT",
+        "to": "ES",
+        "airport": "PortoAirClub",
+        "seats_available": 47,
+        "plane_number": "UA914",
+        "port_number": "A8",
+        "fly_code": "NZ722",
+        "date": "2025-03-17"
+    },
+    {
+        "from": "PT",
+        "to": "KR",
+        "airport": "PortoAirClub",
+        "seats_available": 15,
+        "plane_number": "SQ512",
+        "port_number": "B2",
+        "fly_code": "QR418",
+        "date": "2025-02-28"
+    }
+]
